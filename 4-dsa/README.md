@@ -1,12 +1,15 @@
 # DSA
 
 * [ ] Two pointers
+  * [ ] Sliding Window
 * [ ] Fast & Slow
 * [ ] Modified Binary Search
-* [ ] HashMap
+* [X] HashMap
 * [ ] ---
-* [ ] Heap, Two Heaps
-* [ ] Merge Interval, K way merge
+* [X] Heap,
+  * [ ] Two Heaps
+* [ ] Merge Interval,
+  * [ ] K way merge
 * [ ] Stacks
 * [ ] ---
 * [ ] Tree (DFS, BFS)
@@ -18,8 +21,6 @@
 * [ ] Graphs
 * [ ] Trie
 * [ ] Topological Sort
-
-
 
 ---
 
