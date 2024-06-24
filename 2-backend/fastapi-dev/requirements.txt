@@ -1,0 +1,7 @@
+fastapi
+pydantic-settings
+pytest
+pytest-cov
+ruff
+python-dotenv
+pytest-xdist # run test parallely
