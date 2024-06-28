@@ -2,6 +2,8 @@
 
 https://github.com/Chanda-Abdul/Several-Coding-Patterns-for-Solving-Data-Structures-and-Algorithms-Problems-during-Interviews/blob/main/%E2%9C%85%20%20Pattern%2001%20%3A%20Sliding%20Window.md
 
+https://www.designgurus.io/course/grokking-the-coding-interview
+
 * [ ] Two pointers
   * [ ] Sliding Window
 * [ ] Fast & Slow
@@ -32,3 +34,8 @@ Remember
 - find an element in map, set
 - max(num_counts.keys(), key=num_counts.get) # max func can take the key values & a function
 - enumerate
+
+
+1 July - 31 July
+
+31 days * 5 = 155 questions

@@ -3,5 +3,7 @@ pydantic-settings
 pytest
 pytest-cov
 ruff
+pydantic
 python-dotenv
 pytest-xdist # run test parallely
+fastapi-microsoft-identity
