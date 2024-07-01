@@ -1,4 +1,48 @@
 ```
+Datalemur (Easy) - https://www.youtube.com/playlist?list=PLtfxzVLWb-B-F6Ds1p85wLYxPGq1lAsfk
+
+Datalemur (Medium) - https://www.youtube.com/watch?v=EInziDxCoz0&list=PLtfxzVLWb-B-WGRZGsl3SFlHxl49MOfKP
+
+DetaLemur (hard) - https://www.youtube.com/watch?v=osGSIQMJM_w&list=PLtfxzVLWb-B-4zEHGsxoCacaY4QfSVqh8
+
+
+https://www.interviewquery.com/p/data-science-sql-interview-questions
+
+https://www.youtube.com/playlist?list=PLVD3APpfd1tuXrXBWAntLx4tNaONro5dA
+
+https://www.youtube.com/@iqjayfeng
+
+
+SQL Interview topics 1.window functions case when self join union shoul use left join rank (over clause) LEAD LAG Group By SUM/COUNT MAX/MIN MOVING AVERAGE/SUM SUBQUERY INDEXING HAVING VS WHERE CTE 1. CASE WHEN. So many great use cases!
+
+Self joins. Common in product user behavior.
+
+DISTINCT and GROUP BY
+
+Left vs outer joins. Need I say more?
+
+UNION. Rarely discussed but frequent.
+
+SUM and COUNT. Nail the foundations!
+
+Date-time manipulation. This will set you apart.
+
+String formatting, substring.
+
+Window functions like rank and row. Absolute gold!
+
+Subqueries. Because they always show up...
+
+HAVING vs WHERE. Do you know why?
+
+LAG and LEAD. What do you use these for?
+
+Understanding indexing. More intermediate.
+
+Running totals. A fun use case to learn.
+
+MAX and MIN. More common than anyone says!
+
 
 stratascratchSQL (22) ~ 7.3 hours | nariSQL
 
@@ -70,7 +114,7 @@ Database Normalization:
 
 ## *** Technical Assessment ****
 
-* [ ] 
+* [ ]
 
 ## order_id | customer_id | order_datetime | item_id | order_quantity
 
