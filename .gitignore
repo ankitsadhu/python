@@ -1,0 +1,36 @@
+*.cypthon-311.pyc
+*.pyc
+*.chm
+*.pth
+Lib/
+Include/
+build/
+dist/
+Scripts/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# C extensions
+*.so
+
+# Distribution / packaging
+bin/
+build/
+develop-eggs/
+dist/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+mlflow/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt

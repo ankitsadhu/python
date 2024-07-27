@@ -62,6 +62,7 @@ plan_party('Alice', music="Jazz", food="Pizza", decorations="Ballons")
 
 - It is a special method that is automatically called when you create an instance of a class.
 - It's primary purpose is to initialize the attributes or properties of an object during object creation.
+
   ```python
     class Dog:
       # self refers to the instance of the obj being created
@@ -72,10 +73,10 @@ plan_party('Alice', music="Jazz", food="Pizza", decorations="Ballons")
   my_dog = Dog('Lee', 3)
   ```
 
-    What is__new__ ?
-   __new __ -> creates an instance of the class
-   __init__ -> initialises instance of class with values
-   __getitem__ -> access an element of an obj
+  What is__new__ ?
+  __new __ -> creates an instance of the class
+  __init__ -> initialises instance of class with values
+  __getitem__ -> access an element of an obj
 
 ```python
    class MyList:
@@ -92,8 +93,7 @@ plan_party('Alice', music="Jazz", food="Pizza", decorations="Ballons")
 ```
 
     ```python
-      class Language:
-        _instance = None
+      class Language:_instance = None
         def__new__(cls, *args, **kwargs):
           if cls._instance is None:
             print("Creating instance")
@@ -127,3 +127,7 @@ plan_party('Alice', music="Jazz", food="Pizza", decorations="Ballons")
 5. Fastapi
 6. SQLAlchemy
 7. Docker
+
+```python
+
+```
