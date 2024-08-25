@@ -1,0 +1,123 @@
+# Music Streaming Service (Spotify)
+
+![1723185619146](image/main/1723185619146.png)
+
+![1723185672852](image/main/1723185672852.png)
+
+## Functional Requirements
+
+![1723185722186](image/main/1723185722186.png)
+
+## Non Functional
+
+![1723185742508](image/main/1723185742508.png)
+
+## Architecture
+
+MVC
+
+![1723185823414](image/main/1723185823414.png)
+
+![1723187146883](image/main/1723187146883.png)
+
+![1723187911319](image/main/1723187911319.png)
+
+## UI:
+
+![1723185884122](image/main/1723185884122.png)
+
+## APP Rendering
+
+![1723185919289](image/main/1723185919289.png)
+
+![1723185954963](image/main/1723185954963.png)
+
+## Application Details
+
+![1723185985055](image/main/1723185985055.png)
+
+## Data Model
+
+![1723186056623](image/main/1723186056623.png)
+
+## Network Protocol
+
+![1723186083695](image/main/1723186083695.png)
+
+## App Details
+
+![1723186539083](image/main/1723186539083.png)
+
+## BFF
+
+![1723187097789](image/main/1723187097789.png)
+
+![1723187122332](image/main/1723187122332.png)
+
+## Progressive Downloading vs Streaming
+
+![1723187210632](image/main/1723187210632.png)
+
+![1723187228493](image/main/1723187228493.png)
+
+## Media Source Extensions
+
+![1723187316803](image/main/1723187316803.png)
+
+![1723187333970](image/main/1723187333970.png)
+
+![1723187359701](image/main/1723187359701.png)
+
+![1723187382510](image/main/1723187382510.png)
+
+![1723187399928](image/main/1723187399928.png)
+
+![1723187625168](image/main/1723187625168.png)
+
+![1723187653205](image/main/1723187653205.png)
+
+![1723187674364](image/main/1723187674364.png)
+
+## Audio Player
+
+![1723187700549](image/main/1723187700549.png)
+
+![1723187736137](image/main/1723187736137.png)
+
+## Offline Mode
+
+![1723187765713](image/main/1723187765713.png)
+
+![1723187784177](image/main/1723187784177.png)
+
+![1723187810238](image/main/1723187810238.png)
+
+![1723187835967](image/main/1723187835967.png)![1723187866014](image/main/1723187866014.png)
+
+![1723187885293](image/main/1723187885293.png)
+
+![1723187911319](image/main/1723187911319.png)![1723187956488](image/main/1723187956488.png)
+
+![1723187985551](image/main/1723187985551.png)
+
+## Synchronisation
+
+![1723188016130](image/main/1723188016130.png)
+
+![1723188044653](image/main/1723188044653.png)
+
+![1723188074470](image/main/1723188074470.png)
+
+## Perf
+
+Brotli compression
+
+![1723188101574](image/main/1723188101574.png)
+
+![1723188127500](image/main/1723188127500.png)![1723188146540](image/main/1723188146540.png)
+
+![1723188165340](image/main/1723188165340.png)
+
+![1723188196115](image/main/1723188196115.png)
+
+![1723188216046](image/main/1723188216046.png)
